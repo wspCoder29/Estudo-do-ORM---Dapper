@@ -11,4 +11,5 @@ Dapper - Aprenda a usar o micro-ORM mais popular do .NET
 Link: https://www.udemy.com/course/dapper-aprenda-a-usar-o-micro-orm-mais-popular-do-net/
 
 
+Retorno do Swagger da API de eComerce (Desenvolvimento em andamento)
 <img src=CRUD-eCommerce.jpg width="500">
